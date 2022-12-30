@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <div>
   <img src="https://img.icons8.com/color/2x/ibm.png" title="IBM" alt="IBM" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/color/2x/sap.png" title="SAP" alt="SAP" width="45" height="45"/>&nbsp;
+  <img src="https://img.icons8.com/color/2x/sap.png" title="SAP" alt="SAP" width="60" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
