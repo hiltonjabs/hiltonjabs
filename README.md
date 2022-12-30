@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: Skills (Languages and Tools) :
 
 <div>
-  <img src="https://img.icons8.com/color/2x/ibm.png" title="IBM" alt="IBM" width="40" height="40"/>&nbsp;
-  <img src="https://www.prolival.fr/wp-content/uploads/2018/07/300x300xIBM-DB2-logo.png.pagespeed.ic_.ZyQH7PLHmc-360x360.png" title="IBM DB2" alt="IBM DB2" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/2x/ibm.png" title="IBM" alt="IBM" width="40" height="40"/>&nbsp; 
   <img src="https://img.icons8.com/color/2x/sap.png" title="SAP" alt="SAP" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -46,7 +45,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://www.prolival.fr/wp-content/uploads/2018/07/300x300xIBM-DB2-logo.png.pagespeed.ic_.ZyQH7PLHmc-360x360.png" title="IBM DB2" alt="IBM DB2" width="40" height="40"/>&nbsp;   
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
