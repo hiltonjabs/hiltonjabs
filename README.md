@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: Skills (Languages and Tools) :
 
 <div>
+  <img src="https://icons8.com/icon/31754/ibm" title="IBM" alt="COBOL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
