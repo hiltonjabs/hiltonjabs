@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <div>
   <img src="https://img.icons8.com/color/2x/ibm.png" title="IBM" alt="IBM" width="40" height="40"/>&nbsp;
-  <img src="https://icons.veryicon.com/png/o/education-technology/onemind/db2.png" title="IBM DB2" alt="IBM DB2" width="40" height="40"/>&nbsp;
+  <img src="https://www.prolival.fr/wp-content/uploads/2018/07/300x300xIBM-DB2-logo.png.pagespeed.ic_.ZyQH7PLHmc-360x360.png" title="IBM DB2" alt="IBM DB2" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/2x/sap.png" title="SAP" alt="SAP" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
