@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### :hammer_and_wrench: Most Used Languages :
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thlokomelo"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hiltonjabs"/>
 
 ---
 
