@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.vercel.app/api?user=hiltonjabs&theme=vision-friendly-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.herokuapp/api?user=hiltonjabs&theme=vision-friendly-dark)](https://git.io/streak-stats)
 ---
 
 ### :hammer_and_wrench: Most Used Languages :
