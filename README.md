@@ -1,5 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Java
+- 🔭 I’m currently working on some fun projects
+- 🌱 I’m currently learning Java
+    
 <!--
 **hiltonjabs/hiltonjabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
