@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :hammer_and_wrench: My Stats :
+### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp/?user=hiltonjabs&theme=vision-friendly-dark)](https://git.io/streak-stats)
 ---
