@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :fire: My Stats :
+### 🛠️: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp/?user=hiltonjabs&theme=vision-friendly-dark)](https://git.io/streak-stats)
 ---
